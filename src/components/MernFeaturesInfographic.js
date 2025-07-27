@@ -211,7 +211,7 @@ const MernFeaturesInfographic = () => {
                         </div>
                     </div>
                 </section>
-
+<p>dhfjh</p>
                 {/* Section 5: What Else to Add for Success */}
                 <section className="mb-12 p-6 md:p-8 bg-white rounded-xl shadow-lg">
                     <h2 className="text-3xl font-bold mb-6 text-center primary-dark">5. Key Success Factors & Future Enhancements</h2>
@@ -237,7 +237,7 @@ const MernFeaturesInfographic = () => {
                 <footer className="text-center mt-12 pt-8 border-t border-medium-blue">
                     <p className="text-sm primary-medium">This infographic provides a clear and actionable overview of the Groovy Streetz E-Commerce platform's features and workflow.</p>
                 </footer>
-
+     
             </div>
         </>
     );
