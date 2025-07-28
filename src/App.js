@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
+import AppFooter from './components/AppFooter';
 import SideMenuFlow from './components/SideMenuFlow';
 import SideMenuInfographic from './components/SideMenuInfographic';
 import HeroInfographic from './components/HeroInfographic';
@@ -10,6 +11,7 @@ function App() {
   return (<><Navbar />
   <main>
     <MernFeaturesInfographic />
+    <AppFooter />
     <SideMenuFlow />
     <SideMenuInfographic />
     <HeroInfographic />
